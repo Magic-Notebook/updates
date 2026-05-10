@@ -1,15 +1,15 @@
 {
-  "version": "1.0.17",
+  "version": "1.0.18",
   "notes": "See the assets to download this version.",
-  "pub_date": "2026-05-10T18:14:14.168Z",
+  "pub_date": "2026-05-10T18:45:43.320Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTHFhbnFvZUdHcStGeFlPL1ZHcENZb2V5eTNvQkY2TWYydVp1NEZSM2RwbzUveFhSeWozdGlWQmhqSUJpY0lyQWM4OG9xby9nNkRVM3JiV0dSNTRYR3VEcDVkQWlmNHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NDM2ODQ5CWZpbGU6TWFnaWMgTm90ZWJvb2tfMS4wLjE3X3g2NF9lbi1VUy5tc2kKcEJQZ3BYTGE3YThJUXVSOXVPbnVSdXhsRW9yQjRFaTVrS1JQNVl3NmFVRXFLa2dkNkdha25xK1NZdzdLZnhUaXhGTWNlbUYrakhqaTJMWlZGZHZnQnc9PQo=",
-      "url": "https://updates.magic-notebook.com/stable/windows/Magic.Notebook_1.0.17_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTHFhbnFvZUdHcXlzWENoNXFlRlhVaFhaallSVllabWdQWk5uTUNRZkZ3UTNiV0RmR3NHaTRMeUt2OThTRjhvdkdSUFZyYWx5UHB4Z0xJUmMwMHo4UnB1K0NNeHQrNUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NDM4NzM4CWZpbGU6TWFnaWMgTm90ZWJvb2tfMS4wLjE4X3g2NF9lbi1VUy5tc2kKR2tmdVQ3cGdnTytiV2NSR2JVREgzQXQ0UzA3eHM4OGpyYXp6a0VQVHc1a1lVN0NDeW83Nk9oZ2txZFVUeDNTWExVbkRsdVc4VzVnTVBFZFdHVnpHQUE9PQo=",
+      "url": "https://updates.magic-notebook.com/stable/windows/Magic.Notebook_1.0.18_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTHFhbnFvZUdHcStGeFlPL1ZHcENZb2V5eTNvQkY2TWYydVp1NEZSM2RwbzUveFhSeWozdGlWQmhqSUJpY0lyQWM4OG9xby9nNkRVM3JiV0dSNTRYR3VEcDVkQWlmNHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NDM2ODQ5CWZpbGU6TWFnaWMgTm90ZWJvb2tfMS4wLjE3X3g2NF9lbi1VUy5tc2kKcEJQZ3BYTGE3YThJUXVSOXVPbnVSdXhsRW9yQjRFaTVrS1JQNVl3NmFVRXFLa2dkNkdha25xK1NZdzdLZnhUaXhGTWNlbUYrakhqaTJMWlZGZHZnQnc9PQo=",
-      "url": "https://updates.magic-notebook.com/stable/windows/Magic.Notebook_1.0.17_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTHFhbnFvZUdHcXlzWENoNXFlRlhVaFhaallSVllabWdQWk5uTUNRZkZ3UTNiV0RmR3NHaTRMeUt2OThTRjhvdkdSUFZyYWx5UHB4Z0xJUmMwMHo4UnB1K0NNeHQrNUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NDM4NzM4CWZpbGU6TWFnaWMgTm90ZWJvb2tfMS4wLjE4X3g2NF9lbi1VUy5tc2kKR2tmdVQ3cGdnTytiV2NSR2JVREgzQXQ0UzA3eHM4OGpyYXp6a0VQVHc1a1lVN0NDeW83Nk9oZ2txZFVUeDNTWExVbkRsdVc4VzVnTVBFZFdHVnpHQUE9PQo=",
+      "url": "https://updates.magic-notebook.com/stable/windows/Magic.Notebook_1.0.18_x64_en-US.msi"
     }
   }
 }
