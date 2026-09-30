@@ -1,15 +1,15 @@
 {
-  "version": "1.3.0",
+  "version": "1.3.1",
   "notes": "See the assets to download this version.",
-  "pub_date": "2026-08-20T00:00:00.000Z",
+  "pub_date": "2026-09-30T13:07:47.000Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTHFhbnFvZUdHcTJjS1dXY0VLamdVUjJPUFlCWlp1ZFJad0pxdnBodnUvVlFIUHVjeStDKzVNelBKdnVKb0w4eVZhQ1RBS3Mzd01aeURJcXhWWC9TRjVVYVdhS0xLTlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTk2OTAwCWZpbGU6TWFnaWMgTm90ZWJvb2suYXBwLnRhci5negpwSW5SWkU0ZVlFd0tYZk5ZTS91aElXckloRm1YMUZ1OXU3OENONUp2ZkNQTzZVdWJWMmgzM0ZGTUgySVNFSHNUeE9XMUFIck0rbG9sRHZPK2FLTHJEdz09Cg==",
-      "url": "https://github.com/Magic-Notebook/updates/releases/download/v1.3.0/MagicNotebook-1.3.0.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTHFhbnFvZUdHcStuZENpQnZKbXZuQzBkcFB2K2ZBRjNaQVliQVlNZjlrUzhQZnIveU92VDc2OWs2b3ZtMDQ3Z1NrRy9vTWYwMDJWTXY4b0trOEVPeUI3Znh4bXRBeHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzcwODQxCWZpbGU6TWFnaWMgTm90ZWJvb2suYXBwLnRhci5negprMC9mZmtMTmpEbVYvQ2l4akJmOW5lOU5XZzlldkpZTzZCanpKNHlwQUovUEQxUVB0ZHIrSzhoNTQzRUp6UDBKUGRYVG1uU0dOOHVWYVNPcGM4dnJEUT09Cg==",
+      "url": "https://github.com/Magic-Notebook/updates/releases/download/v1.3.1/MagicNotebook-1.3.1.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTHFhbnFvZUdHcTJjS1dXY0VLamdVUjJPUFlCWlp1ZFJad0pxdnBodnUvVlFIUHVjeStDKzVNelBKdnVKb0w4eVZhQ1RBS3Mzd01aeURJcXhWWC9TRjVVYVdhS0xLTlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTk2OTAwCWZpbGU6TWFnaWMgTm90ZWJvb2suYXBwLnRhci5negpwSW5SWkU0ZVlFd0tYZk5ZTS91aElXckloRm1YMUZ1OXU3OENONUp2ZkNQTzZVdWJWMmgzM0ZGTUgySVNFSHNUeE9XMUFIck0rbG9sRHZPK2FLTHJEdz09Cg==",
-      "url": "https://github.com/Magic-Notebook/updates/releases/download/v1.3.0/MagicNotebook-1.3.0.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTHFhbnFvZUdHcStuZENpQnZKbXZuQzBkcFB2K2ZBRjNaQVliQVlNZjlrUzhQZnIveU92VDc2OWs2b3ZtMDQ3Z1NrRy9vTWYwMDJWTXY4b0trOEVPeUI3Znh4bXRBeHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzcwODQxCWZpbGU6TWFnaWMgTm90ZWJvb2suYXBwLnRhci5negprMC9mZmtMTmpEbVYvQ2l4akJmOW5lOU5XZzlldkpZTzZCanpKNHlwQUovUEQxUVB0ZHIrSzhoNTQzRUp6UDBKUGRYVG1uU0dOOHVWYVNPcGM4dnJEUT09Cg==",
+      "url": "https://github.com/Magic-Notebook/updates/releases/download/v1.3.1/MagicNotebook-1.3.1.app.tar.gz"
     }
   }
 }
